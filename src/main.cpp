@@ -44,5 +44,5 @@ void loop() {
         Serial.println("No Touch");
     }
 
-    delay(300);
+    delay(400);
 }
